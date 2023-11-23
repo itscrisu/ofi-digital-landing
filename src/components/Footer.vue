@@ -38,7 +38,7 @@ export default {
         {
           id: 1,
           logo: "mdi-whatsapp",
-          url: "https://api.whatsapp.com/send?phone=5491125117231&text=Hola Ofi.Digital! Quiero hacerles una consulta...",
+          url: "https://api.whatsapp.com/send?phone=5491131421895&text=Hola Ofi.Digital! Quiero hacerles una consulta...",
         },
         {
           id: 2,
